@@ -4,7 +4,7 @@
 This analysis audits **₹986M INR** in gross sales data to identify high-value customer demographics and behavioral patterns. The objective was to provide a strategic roadmap for user retention and geographic resource allocation.
 
 ## 🖥️ Dashboard Preview
-![Zomato Dashboard Screenshot]()
+![Zomato Dashboard Analysis](Zomato_Screenshot.png)
 
 
 
