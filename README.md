@@ -6,7 +6,7 @@ This analysis audits **₹986M INR** in gross sales data to identify high-value 
 ## 🖥️ Dashboard Preview
 ![Zomato Dashboard Analysis](Zomato_Screenshot.png)
 
-
+> **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/lentz.francois/viz/ZomatoFinalProjectWorkbook/RevenueCustomerSegments?publish=yes)**
 
 ## 🚀 Key Insights
 * **The 20-Year-Old Peak:** Data analysis reveals the **15–30 age bracket** is the primary driver of order frequency. The **20 and 25-year-old cohorts** represent the highest volume of users, indicating that long-term growth is tethered to these early-career professionals and students.
