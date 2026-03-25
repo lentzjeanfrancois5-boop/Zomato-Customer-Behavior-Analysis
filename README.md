@@ -1,9 +1,12 @@
 # Zomato Customer Behavioral & Revenue Analysis 📊
 
-
-
 ## 📋 Project Overview
 This analysis audits **₹986M INR** in gross sales data to identify high-value customer demographics and behavioral patterns. The objective was to provide a strategic roadmap for user retention and geographic resource allocation.
+
+## 🖥️ Dashboard Preview
+![Zomato Dashboard Screenshot]()
+
+
 
 ## 🚀 Key Insights
 * **The 20-Year-Old Peak:** Data analysis reveals the **15–30 age bracket** is the primary driver of order frequency. The **20 and 25-year-old cohorts** represent the highest volume of users, indicating that long-term growth is tethered to these early-career professionals and students.
