@@ -1,7 +1,7 @@
 # Zomato Customer Behavioral & Revenue Analysis 📊
 
 ## 📋 Project Overview
-This analysis audits **₹986M INR** in gross sales data to identify high-value customer demographics and behavioral patterns. The objective was to provide a strategic roadmap for user retention and geographic resource allocation.
+This project analyzes **₹986M INR** in gross sales data to identify high-value customer demographics, behavioral patterns, and revenue distribution trends. The objective is to develop a strategic framework for **customer retention, segmentation, and geographic optimization**.
 
 ## 🖥️ Dashboard Preview
 ![Zomato Dashboard Analysis](Zomato_Screenshot.png)
@@ -9,19 +9,19 @@ This analysis audits **₹986M INR** in gross sales data to identify high-value 
 > **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/lentz.francois/viz/ZomatoFinalProjectWorkbook/RevenueCustomerSegments?publish=yes)**
 
 ## 🚀 Key Insights
-* **The 20-Year-Old Peak:** Data analysis reveals the **15–30 age bracket** is the primary driver of order frequency. The **20 and 25-year-old cohorts** represent the highest volume of users, indicating that long-term growth is tethered to these early-career professionals and students.
-* **Behavioral Segmentation (RFM):** Utilizing an **RFM (Recency, Frequency, Monetary) model**, I identified that while 'Loyalists' provide a stable foundation, a significant volume of **'At Risk'** users—particularly in the high-frequency 20–25 age group—represents potential revenue leakage.
-* **Geographic Power Hubs:** Revenue is highly concentrated. **Bikaner** is a top performer generating **16.7M INR**, significantly outpacing other regions, while Bangalore serves as a massive, high-density "hot zone."
+* **The 20-Year-Old Peak:** Analysis shows the **15–30 age group** is the primary driver of order volume. The **20 and 25-year-old cohorts** represent the highest engagement, indicating strong dependence on early-career professionals and students.
+* **Behavioral Segmentation (RFM):** Using an **RFM (Recency, Frequency, Monetary) model**, customers were segmented into behavioral groups. While 'Loyalists' provide consistent revenue, a significant portion of high-frequency users (especially ages 20–25) fall into the **'At Risk'** category, indicating potential revenue leakage.
+* **Geographic Power Hubs:** Revenue is heavily concentrated in key regions. **Bikaner (₹16.7M)** emerges as a top-performing market, while **Bangalore** functions as a high-density transactional hub.
 
 ## 🛠️ Technical Methodology
-* **Data Validation:** Audited transaction logs to confirm a **₹986M gross revenue** baseline.
-* **Segmentation Logic:** Applied RFM modeling to categorize users by engagement, identifying critical "At Risk" segments.
-* **Dashboarding:** Developed an interactive command center with dynamic slicers for **Occupation, Year, and Sales Amount** to enable self-service "what-if" analysis for stakeholders.
+* **Data Validation:** Verified transaction data to establish a **₹986M gross revenue baseline**.
+* **Segmentation Logic:** Applied **RFM analysis** to classify users based on engagement and value contribution.
+* **Dashboard Development:** Built an interactive Tableau dashboard with dynamic filters (Occupation, Year, Sales Amount) to support exploratory analysis and business decision-making.
 
 ## 📈 Strategic Recommendations
-1. **Targeted Retention:** Launch a "Win-Back" campaign for the 'At Risk' segment, offering personalized incentives to users in the 20–25 age bracket.
-2. **Hyper-Local Focus:** Shift spend from broad national ads to **Bikaner and Bangalore**. By focusing Gold memberships and fast-delivery logistics in these hubs, we optimize ROAS and operational efficiency.
-3. **Loyalty Transition:** Introduce a student-specific loyalty tier to convert high-frequency 20-year-olds from 'At Risk' to 'Loyalists.'
+1. **Targeted Retention:** Implement “Win-Back” campaigns for **'At Risk' users**, particularly within the 20–25 age segment.
+2. **Geographic Optimization:** Reallocate marketing spend toward high-performing regions such as **Bikaner and Bangalore** to maximize ROI and operational efficiency.
+3. **Loyalty Program Design:** Introduce a student-focused loyalty tier to improve retention and transition high-frequency users from “At Risk” to “Loyalist” segments.
 
 ---
 *Prepared by: Lentz Jean Francois, Marketing Intelligence Analyst*
